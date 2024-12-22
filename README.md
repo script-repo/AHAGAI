@@ -32,12 +32,12 @@ The AHAGAI project is a method for rapid learning and integration of new informa
 
 **The process**
 
-  a) Information gathering
-  b) Analysis and summarization
-  c) Curation of learnings
-  d) Develop integration strategy
-  e) Establish action and accountability plan
-  f) Establish roadmap and timeline
+  - Information gathering
+  - Analysis and summarization
+  - Curation of learnings
+  - Develop integration strategy
+  - Establish action and accountability plan
+  - Establish roadmap and timeline
 
 
 
