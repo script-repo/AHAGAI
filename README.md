@@ -45,3 +45,5 @@ https://github.com/script-repo/AHAGAI/blob/main/Top_100_Self_Improvement_Books_F
 
 The calendar for 30 days has been created as an app here: https://xsljquwjdwebzogy.preview.co.dev/
 
+Book 1: AHAGAI-Book-1-Kaizen-for-the-AI-Era https://github.com/script-repo/AHAGAI-Book-1-Kaizen-for-the-AI-Era
+
