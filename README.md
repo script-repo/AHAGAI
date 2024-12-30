@@ -40,5 +40,8 @@ The AHAGAI project is a method for rapid learning and integration of new informa
   - Establish action and accountability plan
   - Establish roadmap and timeline
 
+The excel spreadsheet of the top 100 books has been created. It has a book summary and key points summary for each book.
+https://github.com/script-repo/AHAGAI/blob/main/Top_100_Self_Improvement_Books_Final_List.xlsx
+
 
 
