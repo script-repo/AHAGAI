@@ -47,3 +47,4 @@ The calendar for 30 days has been created as an app here: https://xsljquwjdwebzo
 
 Book 1: AHAGAI-Book-1-Kaizen-for-the-AI-Era https://github.com/script-repo/AHAGAI-Book-1-Kaizen-for-the-AI-Era
 
+Book 2: AHAGAI-Book-2-From-Beans-to-Bits-Fika-and-the-Generative-AI-Revolution https://github.com/script-repo/AHAGAI-Book-2-From-Beans-to-Bits-Fika-and-the-Generative-AI-Revolution
